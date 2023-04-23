@@ -1,0 +1,11 @@
+config.json
+/shelf/
+/workspace.xml
+.idea/workspace.xml
+misc.xml
+modules.xml
+.idea/profile_settings.xml
+profile
+vcs.xml
+.idea/Punko.iml
+/.idea/inspectionProfiles/profiles_settings.xml
