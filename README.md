@@ -11,12 +11,12 @@ The AI Chatbot portion of this bot uses the [Microsoft DialoGPT conversational m
 
 Here is a demo of the Discord bot AI chat function.
 <div>
-  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/discord.PNG" width=300>
+  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/discord.gif" width=300>
 </div>
 
 You can also directly chat with the model hosted on [Hugging Face's Model Hub](https://huggingface.co/BiaDd/DialoGPT-medium-Punko).
 <div>
-  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/huggingface.PNG" width=300>
+  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/huggingface.gif" width=300>
 </div>
 
 ## Structure of this Project
