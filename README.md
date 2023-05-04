@@ -1,7 +1,7 @@
 # Punko Discord Bot 
 
 <div align="center">
-  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/poo.PNG" width=300>
+  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/poo.PNG" width=320>
 </div>
 
 
