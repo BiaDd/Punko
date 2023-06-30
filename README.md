@@ -38,6 +38,7 @@ You can also directly prompt the model hosted on [Hugging Face's Model Hub](http
 - [x] Train image generation model
 - [x] Integrate image generation model with discord bot
 - [ ] Add negative prompts to image generation API calls
+- [ ] Add an AI model to do automatic prompting? based on key words?
 
 
 ## Resource Links
