@@ -47,4 +47,4 @@ You can also directly prompt the model hosted on [Hugging Face's Model Hub](http
 - [Lynn Zheng's video](https://youtu.be/UBwvFuTC1ZE)
 - [Stable Diffusion Tutorial by SECourses](https://www.youtube.com/watch?v=mnCY8uM7E50&list=PL_pbwdIyffsmclLl0O144nQRnezKlNdx3)
 - [My AI conversational chatbot model](https://huggingface.co/r3dhummingbird/DialoGPT-medium-joshua)
-- [My AI image generation model WORK IN PROGRESS]()
+- [My AI image generation model](https://huggingface.co/BiaDd/Dreambooth-Punko)
