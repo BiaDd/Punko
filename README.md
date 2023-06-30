@@ -4,7 +4,6 @@
   <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/poo.PNG" width=320>
 </div>
 
-
 This is a personal project meant for learning AI. I have integrated a few custom AI models to develop an AI Chatbot and an AI image generation feature for this bot
 
 The AI Chatbot portion of this bot uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) trained with message from people in family groupchat. I followed [Lynn Zheng's tutorial](https://www.freecodecamp.org/news/discord-ai-chatbot/) to create this portion of the bot.
@@ -19,6 +18,13 @@ You can also directly chat with the model hosted on [Hugging Face's Model Hub](h
   <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/huggingface.gif">
 </div>
 
+Version 0.6 beta introduces image generation! Just like midjourney Punko can now generate images powered by a custom trained [Stable Diffusion Image Model](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+<div>
+  <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/image-generation.png">
+</div>
+
+You can also directly prompt the model hosted on [Hugging Face's Model Hub](https://huggingface.co/BiaDd/Dreambooth-Punko)
+
 ## Structure of this Project
 
 - `model_train_upload_workflow.ipyb`: Notebook to be run in Google Colab to train and upload the model to Hugging Face's Model Hub
@@ -30,7 +36,8 @@ You can also directly chat with the model hosted on [Hugging Face's Model Hub](h
 - [x] Train AI chatbot
 - [x] Integrate AI chatbot with discord boy 
 - [x] Train image generation model
-- [ ] Integrate image generation model with discord bot
+- [x] Integrate image generation model with discord bot
+- [ ] Add negative prompts to image generation API calls
 
 
 ## Resource Links
