@@ -18,7 +18,8 @@ You can also directly chat with the model hosted on [Hugging Face's Model Hub](h
   <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/huggingface.gif">
 </div>
 
-Version 0.6 beta introduces image generation! Just like midjourney Punko can now generate images powered by a custom trained [Stable Diffusion Image Model](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+# Image Generation
+Image generation! Just like midjourney Punko can generate images powered by a custom trained [Stable Diffusion Image Model](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 <div>
   <img src="https://github.com/BiaDd/Punko/blob/main/gifs_and_images/image_generation.PNG">
 </div>
